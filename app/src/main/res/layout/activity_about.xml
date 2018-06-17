@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:layout_margin="6dp"
+    android:background="#fff"
+    tools:context="com.sagar.sexynepalimodels.About">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="serif"
+        android:lineSpacingExtra="7dp"
+        android:text="All the images are not hosted on our servers.All the copy right of images belongs to their respective owners. \n  We do not intent to misuse any content from our application.By using this app you accept all our terms  and conditions. Misuse of any of the images is  not allowed."
+        android:textColor="#000"
+        android:textSize="18dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="7dp"
+        android:fontFamily="sans-serif-condensed"
+        android:gravity="center"
+        android:lineSpacingExtra="7dp"
+        android:text="For any issues please kindly contact us :  \n official.sagar@yahoo.com \n Creative Nepal "
+        android:textColor="#000"
+        android:textSize="18dp" />
+
+</LinearLayout>
